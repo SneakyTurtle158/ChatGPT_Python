@@ -3,7 +3,8 @@ Python script integration with ChatGPT's ChatCompletion.
 
 ## Installation
 Clone the repository: 
-```git clone https://github.com/SneakyTurtle158/ChatGPT_Python.git
+```
+git clone https://github.com/SneakyTurtle158/ChatGPT_Python.git
 ```
   
 Install the required packages if you don't have them:  
